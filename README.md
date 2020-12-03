@@ -3,8 +3,10 @@
 </p>
 
 
+# Millionaire
+This project runs with Laravel version 8.12, PHP version 7.3* and MySql version 8.0.22
 
-# Install
+## Install
 ### Steps
 
 Install dependencies
